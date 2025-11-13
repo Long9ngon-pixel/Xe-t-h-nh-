@@ -34,7 +34,7 @@
 ## 🏗️ HỆ THỐNG
 
 <p align="center">
-  <img src="logo/System_Diagram.png" alt="System Architecture" width="800"/>
+  <img src="logo/System_Diagram.png" alt="System_Architecture" width="800"/>
 </p>
 
 ---
@@ -322,7 +322,7 @@ Distance = (FACE_REAL_WIDTH × CALIBRATION_DISTANCE) / face_width_in_pixels
 ## 📰 Poster
 
 <p align="center">
-  <img src="logo/Poster.jpg" alt="Face Recognition Robot Poster" width="800"/>
+  <img src="logo/Poster.jpg" alt="Face_Recognition_Robot_Poster" width="800"/>
 </p>
 
 
