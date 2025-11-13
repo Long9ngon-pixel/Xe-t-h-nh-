@@ -322,7 +322,7 @@ Distance = (FACE_REAL_WIDTH × CALIBRATION_DISTANCE) / face_width_in_pixels
 ## 📰 Poster
 
 <p align="center">
-  <img src="logo/Face_Recognition_Robot_Poster.jpg" alt="Face_Recognition_Robot_Poster" width="800"/>
+  <img src="logo/Face_Recognition_Robot_Poster.png" alt="Face_Recognition_Robot_Poster" width="800"/>
 </p>
 
 
